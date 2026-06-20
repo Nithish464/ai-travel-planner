@@ -12,7 +12,7 @@ A full-stack, multi-user AI travel planner that generates day-by-day itineraries
 
 | Layer | Technology | Justification |
 |---|---|---|
-| Frontend | Next.js 14 + TypeScript | App Router, SSR, excellent DX |
+| Frontend | Next.js 14 + TyeScript | App Router, SSR, excellent DX |
 | Styling | Tailwind CSS | Utility-first, rapid prototyping |
 | Backend | Node.js + Express | Lightweight, fast REST APIs |
 | Database | MongoDB + Mongoose | Flexible schema for itinerary data |
