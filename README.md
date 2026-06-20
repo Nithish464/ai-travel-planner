@@ -9,7 +9,7 @@ A full-stack, multi-user AI travel planner that generates day-by-day itineraries
 ---
 
 ## 🛠️ Tech Stack
-
+jjjjjjj
 | Layer | Technology | Justification |
 |---|---|---|
 | Frontend | Next.js 14 + TypeScript | App Router, SSR, excellent DX |
