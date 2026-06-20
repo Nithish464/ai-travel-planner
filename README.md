@@ -3,8 +3,8 @@
 A full-stack, multi-user AI travel planner that generates day-by-day itineraries, budget estimates, hotel suggestions, and smart packing lists using Google Gemini AI.
 
 ## 🚀 Live Demo
-- **Frontend**: https://your-frontend.vercel.app
-- **Backend**: https://your-backend.onrender.com
+- **Frontend**: https://ai-travel-planner-three-eosin.vercel.app
+- **Backend**: https://ai-travel-planner-d3vf.onrender.com
 
 ---
 
