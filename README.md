@@ -16,7 +16,7 @@ A full-stack, multi-user AI travel planner that generates day-by-day itineraries
 | Styling | Tailwind CSS | Utility-first, rapid prototyping |
 | Backend | Node.js + Express | Lightweight, fast REST APIs |
 | Database | MongoDB + Mongoose | Flexible schema for itinerary data |
-| AI | Google Gemini 2.0 Flash | Fast, accurate, free tier available |
+| AI | Google Gemini 2.0 Flash | Fast, accurate, free tie available |
 | Auth | JWT + bcryptjs | Stateless, secure, industry standard |
 
 ---
